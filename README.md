@@ -2,7 +2,7 @@
 ## Contenido.
 ### Contenido 2
 **Letras en Negritas**
-__Letras en cursiva__
+*Letras en cursiva*
 ### Contenido 3
 * Items 1
 * Items 2
